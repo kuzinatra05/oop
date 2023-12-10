@@ -1,6 +1,5 @@
 from tabulate import tabulate
 
-
 class Car:
     def __init__(self, number, firm, model, car_license, colour,
                  engine_power, fuel, volume, mileage,
